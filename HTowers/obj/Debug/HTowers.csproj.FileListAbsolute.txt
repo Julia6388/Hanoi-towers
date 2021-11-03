@@ -1,0 +1,20 @@
+Z:\Учеба\ТМПроги\HTowers\HTowers\bin\Debug\HTowers.exe.config
+Z:\Учеба\ТМПроги\HTowers\HTowers\bin\Debug\HTowers.exe
+Z:\Учеба\ТМПроги\HTowers\HTowers\bin\Debug\HTowers.pdb
+Z:\Учеба\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.csprojAssemblyReference.cache
+Z:\Учеба\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.Form1.resources
+Z:\Учеба\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.Properties.Resources.resources
+Z:\Учеба\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.csproj.GenerateResource.cache
+Z:\Учеба\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.csproj.CoreCompileInputs.cache
+Z:\Учеба\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.exe
+Z:\Учеба\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.pdb
+D:\Учеба\2 курс\ТМПроги\HTowers\HTowers\bin\Debug\HTowers.exe.config
+D:\Учеба\2 курс\ТМПроги\HTowers\HTowers\bin\Debug\HTowers.exe
+D:\Учеба\2 курс\ТМПроги\HTowers\HTowers\bin\Debug\HTowers.pdb
+D:\Учеба\2 курс\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.csprojAssemblyReference.cache
+D:\Учеба\2 курс\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.Form1.resources
+D:\Учеба\2 курс\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.Properties.Resources.resources
+D:\Учеба\2 курс\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.csproj.GenerateResource.cache
+D:\Учеба\2 курс\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.exe
+D:\Учеба\2 курс\ТМПроги\HTowers\HTowers\obj\Debug\HTowers.pdb
